@@ -43,3 +43,10 @@ body
 {
     padding: 1em;
 }
+
+footer{
+    color: #33A;
+    background-color: azure;
+    font-size: 1rem;
+    padding: 10px;
+}
